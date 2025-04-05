@@ -7,3 +7,6 @@ This project demonstrates how to detect and match keypoints between two images u
 - Apply Lowe’s ratio test
 - Use RANSAC to filter out bad matches
 - Visualize the inlier matches and compute the transformation matrix
+## Output
+- Image showing keypoint matches after RANSAC
+- Printed Homography matrix (transformation model)
